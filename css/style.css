@@ -1,0 +1,102 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #f0ebf8;
+    font-family: Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+.wrapper{
+    width:50%;
+    margin: auto;
+}
+
+.header{
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+.logo{
+    width:100%;
+    border-radius: 10px;;
+}
+
+.container{
+
+}
+
+.title{
+    border-radius: 10px;
+    background-color: white;
+    border-top: 15px solid lightblue;
+    padding: 30px 30px;
+    margin: 15px 0px 35px;
+}
+
+.title h2{
+    margin-bottom: 30px;
+}
+
+hr{
+    margin: 15px 0px;
+}
+
+.form-field{
+    background-color: white;
+    border-radius: 10px;
+    margin:20px 0px;
+    padding:30px 20px;
+}
+
+.form-field h2{
+    font-weight: 700;
+    font-size: 16px;
+    margin-bottom: 35px;
+    font-family: 'docs-Roboto';
+}
+
+.form-field span{
+    color:red;
+}
+
+.form-field input{
+    border:none;
+    outline:none;
+    padding:10px 10px;
+    font-size: 16px;
+    border-bottom: 1px solid #cccccc;
+    width:40%;
+}
+
+.form-field input[type=radio]{
+    border:none;
+    border-bottom: 1px solid #cccccc;
+    width:auto;
+    margin-right: 15px;
+    margin-bottom: 20px;
+}
+
+textarea{
+    border:1px solid #cccccc;
+    width:70%;
+    height: 100px;
+}
+
+input[type=submit]{
+    background-color: #1a73e8;
+    padding: 8px 25px;
+    outline: none;
+    border: none;
+    color: white;
+    border-radius: 5px;
+}
+
+
+footer{
+    border-top:1px solid #cccccc;
+    background-color: #ccc;
+    text-align: center;
+    padding: 25px 0px;
+}
