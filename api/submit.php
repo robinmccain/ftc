@@ -21,8 +21,8 @@
                         </div>
 
                         <div style="text-align:center; margin-top:30px">
-                            <p><span style="color:red">Case ID Generated </span>: 323-cv-02880-FTC</p>
-                            <p><span style="color:red">Case Manager Assigned </span>: Mr. Tony Smith </p>
+                            <p><span style="color:red">Case ID Generated </span>: 525-cv-02880-FTC</p>
+                            <p><span style="color:red">Case Manager Assigned </span>: Mr. Daniel Rogers</p>
                         </div>
                     </div>
                 </div>
