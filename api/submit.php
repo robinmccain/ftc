@@ -28,7 +28,7 @@
                 </div>
             </div>
             <footer style="position:absolute;left:0;bottom:0;width:100%;background-color:#ddd">
-                <p>&copy; Federal Trade Commission 1914-2024</p>
+                <p>&copy; Federal Trade Commission 1914-2025</p>
             </footer>
         </body>
     </html>
