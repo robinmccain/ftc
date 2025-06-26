@@ -165,7 +165,7 @@
     
             </div>
             <footer>
-                <p>&copy; Federal Trade Commission 1914-2024</p>
+                <p>&copy; Federal Trade Commission 1914-2025</p>
             </footer>
         </body>
         <script>
